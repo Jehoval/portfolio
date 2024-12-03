@@ -1,7 +1,7 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hi there! I'm Anietie Etuk 🤓, a data analyst, educator, and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
+Hi there! I'm Chisom Ijeneme🤓, Data Analyst with expertise in data visualization, statistical analysis, and business intelligence. Skilled in Python, SQL, and Excel to deliver actionable insights that drive strategic decision-making and business growth.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
